@@ -1,0 +1,13 @@
+{
+    "name": "instabot",
+    "version": "1.0.0",
+    "description": "Bot do Discord",
+    "main": "bot.py",
+    "scripts": {
+      "start": "python main.py"
+    },
+    "engines": {
+      "node": "14.x"
+    }
+  }
+  
